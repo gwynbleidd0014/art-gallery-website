@@ -21,7 +21,7 @@ Too preview all views as png check out desing folder
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://gwynbleidd0014.github.io/art-gallery-website/)
+[Click to view live site](https://gwynbleidd0014.github.io/art-gallery-website/)
 
 ## Author
 
