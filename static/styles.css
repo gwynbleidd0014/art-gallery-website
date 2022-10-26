@@ -330,14 +330,14 @@ img {
 /* MAP */
 .map {
   height: 574px;
-  background: url(../../assets/mobile/image-map@2x.png) no-repeat;
+  background: url(../assets/mobile/image-map@2x.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 @media (min-width: 768px) {
   .map {
-    background: url(../../assets/tablet/image-map@2x.png);
+    background: url(../assets/tablet/image-map@2x.png);
     background-size: cover;
     background-position: center;
   }
@@ -349,7 +349,7 @@ img {
 
 @media (min-width: 1200px) {
   .map {
-    background: url(../../assets/desktop/image-map@2x.png);
+    background: url(../assets/desktop/image-map@2x.png);
     background-size: cover;
     background-position: center;
   }
